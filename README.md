@@ -3,7 +3,7 @@
 
 🎓 Master's of CS @ Penn Engineering (Class of 2024)\
 😎 Teaching Assistant for Penn's Linux Systems Programming Course (CIT 5950)\
-⚡ Specialize in building scalable and fault-tolerant distributed systems\
+⚡ I specialize in building scalable and fault-tolerant distributed systems\
 💻 Also have experience in Full-Stack Web Development & Big Data Analytics with Machine Learning\
 🌱 Currently seeking full-time SWE opportunities!
 
