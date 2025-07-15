@@ -8,7 +8,7 @@
 💻 Also have experience in Full-Stack Web Development & Big Data Analytics with Machine Learning\
 🌱 Always open to new career opportunities to solve excitingly complex problems with code\
 
-Please check out my [personal website](https://sungenchuang7.github.io/)! 
+Check out my [personal website](https://sungenchuang7.github.io/)! 
 
 
 <h3 align="left">Connect with me:</h3>
