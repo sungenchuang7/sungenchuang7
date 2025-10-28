@@ -6,7 +6,7 @@
 😎 Teaching Assistant for Penn's Linux Systems Programming Class (CIT 5950)\
 ⚡ I specialize in building scalable and fault-tolerant distributed systems\
 💻 Also have experience in Full-Stack Web Development & Big Data Analytics with Machine Learning\
-🌱 Always open to new career opportunities to solve excitingly complex problems with code\
+🌱 Always open to new career opportunities to solve excitingly complex problems with code
 
 Check out my [personal website](https://sungenchuang7.github.io/)! 
 
