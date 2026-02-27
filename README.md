@@ -8,7 +8,7 @@
 💻 Also have experience in Full-Stack Web Development & Big Data Analytics with Machine Learning\
 🌱 Always open to new career opportunities to solve excitingly complex problems with code
 
-Check out my [personal website](https://sungenchuang7.github.io/)! 
+Check out my [personal website](https://sungenchuang7.github.io/)!\
 I'm building [DSA Kata](https://dsa-practice-app.onrender.com/)), a DSA LeetCode practice app powered by the famous SuperMemo-2 algorithm to help you maximize your knowledge retention through spaced repetition. Do check it out!
 
 
