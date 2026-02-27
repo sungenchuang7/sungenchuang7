@@ -5,8 +5,8 @@
 🎓 Master's of CS @ UPenn\
 👨🏻‍🏫 Teaching Assistant for Penn's Linux Systems Programming Class (CIT 5950)\
 ⚡ I'm highly interested in building scalable and fault-tolerant distributed systems\
-💻 With experience in Full-Stack Web Development, Big Data Analytics, and Machine Learning\
-🌱 Always open to new career opportunities to solve excitingly complex problems with code
+💻 I also have experience in Full-Stack Web Development, Big Data Analytics, and Machine Learning\
+🌱 Always open to new career opportunities to solve difficult problems with code! 
 
 Check out my [personal website](https://sungenchuang7.github.io/)!
 
