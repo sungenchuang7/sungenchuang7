@@ -2,10 +2,10 @@
 <h3> Hi there 👋 I'm Sean </h3>
 
 👨‍💻 Full-Time Software Engineer\
-🎓 Master's of CS @ Penn Engineering\
-😎 Teaching Assistant for Penn's Linux Systems Programming Class (CIT 5950)\
-⚡ I specialize in building scalable and fault-tolerant distributed systems\
-💻 Also have experience in Full-Stack Web Development & Big Data Analytics with Machine Learning\
+🎓 Master's of CS @ UPenn\
+👨🏻‍🏫 Teaching Assistant for Penn's Linux Systems Programming Class (CIT 5950)\
+⚡ I'm highly interested in building scalable and fault-tolerant distributed systems\
+💻 With experience in Full-Stack Web Development, Big Data Analytics, and Machine Learning\
 🌱 Always open to new career opportunities to solve excitingly complex problems with code
 
 Check out my [personal website](https://sungenchuang7.github.io/)!\
