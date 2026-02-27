@@ -12,7 +12,7 @@ Check out my [personal website](https://sungenchuang7.github.io/)!\
 
 <h3> What's New? </h3>
 
-I'm building [DSA Kata](https://dsa-practice-app.onrender.com/), a DSA LeetCode practice app powered by the famous SuperMemo-2 algorithm to help you maximize your knowledge retention through spaced repetition. Do check it out!
+I'm building [DSA Kata](https://dsa-practice-app.onrender.com/), a DSA LeetCode practice app powered by the famous SuperMemo-2 algorithm to help you maximize your knowledge retention through spaced repetition. Check it out!
 
 
 <h3 align="left">Connect with me:</h3>
